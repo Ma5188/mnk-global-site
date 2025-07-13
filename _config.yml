@@ -1,2 +1,10 @@
-title: M&K Global
+title: M&K - Custom Industrial Components
+description: M&K - Custom Industrial Components
+baseurl: ""
+url: ""
+
 markdown: kramdown
+
+collections:
+  products:
+    output: true
